@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Redox HTML Template">
 
-  <title>Redox - Creative Agency and Portfolio HTML Template</title>
+  <title>Home - Gandhi Media Solutions</title>
 
   <!-- Fav Icon -->
   <link rel="icon" type="image/x-icon" href="assets/imgs/logo/favicon.png">
@@ -71,8 +71,8 @@
                 <div class="award-wrapper fade-anim" data-delay="0.90" data-direction="left" data-ease="back.out(4)">
                   <div class="circle-text-wrapper">
                     <div class="circle-text">
-                      <img src="assets/imgs/shape/shape-3.webp" alt="image" class="text">
-                      <img src="assets/imgs/shape/shape-2.webp" alt="image" class="icon">
+                      <img src="assets/imgs/shape/1.gif" alt="image" class="icon" width="300px">
+                      <!-- <img src="assets/imgs/shape/shape-2.webp" alt="image" class="icon"> -->
                     </div>
                   </div>
                 </div>
@@ -98,7 +98,7 @@
                         <div class="content">
                           <span class="number">120+</span>
                           <p class="text">Successfully projects done
-                            in 24 countries</p>
+                            in 10+ countries</p>
                         </div>
                       </div>
                     </div>

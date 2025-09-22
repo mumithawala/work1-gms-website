@@ -19,9 +19,10 @@
   <link rel="stylesheet" href="assets/vendor/meanmenu.min.css">
   <link rel="stylesheet" href="assets/vendor/magnific-popup.css">
   <link rel="stylesheet" href="assets/vendor/animate.min.css">
-   <script src="https://kit.fontawesome.com/555d59b0c9.js" crossorigin="anonymous"></script>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
- 
+  <script src="https://kit.fontawesome.com/555d59b0c9.js" crossorigin="anonymous"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
 
   <!-- Template Main CSS File -->
   <link rel="stylesheet" href="assets/css/style.css">
@@ -51,12 +52,12 @@
   </div>
 
   <!-- side toggle start -->
-  
+
   <!-- side toggle end -->
 
   <!-- Header area start -->
-  <?php  require_once 'elements/header.php'
-?>
+  <?php require_once 'elements/header.php'
+    ?>
   <!-- Header area end -->
 
   <div class="has-smooth" id="has_smooth"></div>
@@ -70,37 +71,40 @@
           <div class="container large">
             <div class="hero-area-service-details-inner section-spacing-top">
               <div class="service-meta fade-anim">
-                <span class="serial">[SL: 005]</span>
-                <span class="tag">[Brand Guideline]</span>
-                <span class="next-item"><a href="service-details.html">[Next]</a></span>
+                <!-- <span class="serial">[SL: 005]</span> -->
+                <!-- <span class="tag">[Brand Guideline]</span> -->
+                <!-- <span class="next-item"><a href="service-details.html">[Next]</a></span> -->
               </div>
               <div class="section-header fade-anim">
                 <div class="section-title-wrapper">
                   <div class="title-wrapper">
-                    <h2 class="section-title font-sequelsans-romanbody">Brand <br>
-                      Guideline</h2>
+                    <h2 class="section-title font-sequelsans-romanbody">Digital <br>
+                      Marketing</h2>
                   </div>
                 </div>
               </div>
               <div class="section-content-wrapper fade-anim">
                 <div class="section-content">
                   <div class="text-wrapper">
-                    <p class="text">You'll need to provide your brand information, and starting history to visualize
-                      identity. We speak fluent branding, as we apply a solid base understanding to everything we do
-                      in thought and action.</p>
+                    <p class="text text-justify">
+                      At Gandhi Media Solutions, we empower businesses to thrive in the digital landscape. Our mission
+                      is to deliver innovative, results-driven strategies tailored to each client's unique needs. With a
+                      focus on creativity, technology, and analytics, we help businesses elevate their online presence
+                      and achieve sustainable growth.</p>
                   </div>
                   <div class="feature-list">
                     <ul>
+                      <li>Online Marketing </li>
                       <li>Strategy</li>
-                      <li>Brand Identity</li>
-                      <li>Communication</li>
-                      <li>Research</li>
-                      <li>Consultation</li>
+                      <li>SEO-Marketing</li>
+                      <li>Market Research</li>
+                      <li>Social Media Marketing</li>
+                      <li>YouTube Marketing</li>
                     </ul>
                   </div>
                 </div>
                 <div class="section-thumb parallax-view">
-                  <img src="assets/imgs/gallery/image-24.webp" alt="image" data-speed="0.8">
+                  <img src="assets/imgs/gallery/dm.jpg" alt="image" data-speed="0.8">
                 </div>
               </div>
             </div>
@@ -116,13 +120,12 @@
                 <div class="section-title-wrapper">
                   <div class="subtitle-wrapper fade-anim" data-direction="left">
                     <span class="section-subtitle">Our comprehensive <br>
-                      design process</span>
+                      process</span>
                   </div>
                   <div class="title-wrapper fade-anim" data-direction="right">
-                    <h2 class="section-title font-sequelsans-romanbody">Whether you’re a startup or industry star,
-                      we’re here to promote your brand by
-                      creative research and real human centred
-                      design.</h2>
+                    <h2 class="section-title font-sequelsans-romanbody fs-2">Whether you’re a bold startup or an
+                      established industry leader, we’re here to amplify your brand through strategic creativity,
+                      in-depth research, and genuine human-centered design.</h2>
                   </div>
                 </div>
               </div>
@@ -132,26 +135,26 @@
                   <div class="approach-box">
                     <span class="number">01</span>
                     <h3 class="title">Discovery & Research</h3>
-                    <p class="text">Our mission is to empower the brands we believe in with tailor-made approaches
-                      that ignite creativity and growth without limits.</p>
+                    <p class="text">OWe start by understanding your business, market, audience, and competitors through
+                      thorough research to uncover key opportunities.</p>
                   </div>
                   <div class="approach-box">
                     <span class="number">02</span>
-                    <h3 class="title">Wireframing & Prototyping</h3>
-                    <p class="text">Our mission is to empower the brands we believe in with tailor-made approaches
-                      that ignite creativity and growth without limits.</p>
+                    <h3 class="title">Strategize & Plan</h3>
+                    <p class="text">Based on insights, we craft a tailored digital marketing roadmap that aligns with
+                      your objectives and maximizes ROI.</p>
                   </div>
                   <div class="approach-box">
                     <span class="number">03</span>
-                    <h3 class="title">Design System</h3>
-                    <p class="text">Our mission is to empower the brands we believe in with tailor-made approaches
-                      that ignite creativity and growth without limits.</p>
+                    <h3 class="title">Execute & Optimize</h3>
+                    <p class="text">We implement campaigns across relevant channels (SEO, social, ads, content, email,
+                      etc.) while continuously optimizing for better performance.</p>
                   </div>
                   <div class="approach-box">
                     <span class="number">04</span>
-                    <h3 class="title">Design Validation</h3>
-                    <p class="text">Our mission is to empower the brands we believe in with tailor-made approaches
-                      that ignite creativity and growth without limits.</p>
+                    <h3 class="title">Measure & Evolve</h3>
+                    <p class="text">Using analytics and data-driven insights, we track results, refine strategies, and
+                      scale what works to achieve sustained success.</p>
                   </div>
                 </div>
               </div>
@@ -168,46 +171,48 @@
                 <div class="features-wrapper">
                   <div class="feature-box">
                     <div class="thumb">
-                      <img src="assets/imgs/shape/shape-15.webp" alt="image">
+                      <img src="assets/imgs/shape/1.webp" alt="image">
                     </div>
                     <div class="content">
-                      <h3 class="title">Skilled <br>
-                        design team</h3>
-                      <p class="text">We work closely with your team to understand your mission, values, and goals,
-                        forming the foundation of your brand identity.</p>
+                      <h3 class="title">Collaborative Partnership
+                      </h3>
+                      <p class="text">We work side-by-side with our clients to build impactful campaigns that feel truly
+                        collaborative.</p>
                     </div>
                   </div>
                   <div class="feature-box">
                     <div class="thumb">
-                      <img src="assets/imgs/shape/shape-16.webp" alt="image">
+                      <img src="assets/imgs/shape/2.webp" alt="image">
                     </div>
                     <div class="content">
-                      <h3 class="title">User-centric <br>
-                        design</h3>
-                      <p class="text">We bring extensive experience across various industries, delivering tailored
-                        design solutions that meet specific sector needs.</p>
+                      <h3 class="title">Data-Driven Decisions
+                        <br>
+                        design
+                      </h3>
+                      <p class="text"> Every decision we make is guided by real data and actionable insights for
+                        measurable results..</p>
                     </div>
                   </div>
                   <div class="feature-box">
                     <div class="thumb">
-                      <img src="assets/imgs/shape/shape-17.webp" alt="image">
+                      <img src="assets/imgs/shape/3.webp" alt="image">
                     </div>
                     <div class="content">
-                      <h3 class="title">Data-driven <br>
-                        approach</h3>
-                      <p class="text">Our designs are guided by data and user insights, ensuring optimal usability and
-                        impactful user experiences.</p>
+                      <h3 class="title">User-Centric Experiences
+                      </h3>
+                      <p class="text"> We design every touchpoint around your audience’s needs to ensure seamless,
+                        user-centric experiences.</p>
                     </div>
                   </div>
                   <div class="feature-box">
                     <div class="thumb">
-                      <img src="assets/imgs/shape/shape-18.webp" alt="image">
+                      <img src="assets/imgs/shape/4.webp" alt="image">
                     </div>
                     <div class="content">
-                      <h3 class="title">Collaborative <br>
-                        process</h3>
-                      <p class="text">We work closely with you throughout the design journey, incorporating your
-                        feedback to create designs that align with your vision.</p>
+                      <h3 class="title">Expert, Creative Team
+                      </h3>
+                      <p class="text">Our multidisciplinary team brings creativity, strategy and technical expertise
+                        together to deliver excellence.</p>
                     </div>
                   </div>
                 </div>
@@ -223,36 +228,39 @@
             <div class="value-area-inner section-spacing">
               <div class="section-content-wrapper fade-anim">
                 <div class="section-thumb parallax-view">
-                  <img src="assets/imgs/gallery/image-25.webp" alt="image" data-speed="0.8">
+                  <img src="assets/imgs/gallery/1.jpg" alt="image" data-speed="0.8">
                 </div>
                 <div class="section-content">
                   <div class="section-title-wrapper">
                     <div class="title-wrapper">
-                      <h2 class="section-title font-sequelsans-romanbody">We sharpen your brands and
-                        businesses create exceptional
-                        experiences where people live
-                        work </h2>
+                      <h2 class="section-title font-sequelsans-romanbody">Embark on growth, unlock prosperity
+                        with our digital marketing expertise</h2>
                     </div>
                   </div>
                   <div class="values-wrapper">
                     <div class="value-box">
-                      <h3 class="number">2750</h3>
-                      <p class="text">A website refresh or redesign is a comprehensive overhaul that includes
-                        substantial changes to the content, structure, visuals, and code of your current website.</p>
+                      <h3 class="number">500+</h3>
+                      <p class="text">
+                        Successful digital campaigns launched across SEO, social media, PPC, and content marketing for
+                        clients in multiple industries.
+                      </p>
                     </div>
                     <div class="value-box">
-                      <h3 class="number">92%</h3>
-                      <p class="text">High-quality custom logo design for Melbourne businesses. We are here to support
-                        you. Description - Our logo design package uniquely blends creative skills and strategic
-                        thinking. We don't just create brand identities.</p>
+                      <h3 class="number">95%</h3>
+                      <p class="text">
+                        Client retention rate thanks to our transparent reporting, measurable results, and personalized
+                        strategies that deliver consistent ROI.
+                      </p>
                     </div>
                     <div class="value-box">
-                      <h3 class="number">75%</h3>
-                      <p class="text">Every creative design begins with a clear objective. Whether it's branding,
-                        advertising, product design and user experience, the design must align with the intended
-                        purpose to effectively communicate its beyond beauty.</p>
+                      <h3 class="number">10X</h3>
+                      <p class="text">
+                        Average increase in qualified leads achieved by optimizing brand visibility and user engagement
+                        through data-driven marketing tactics.
+                      </p>
                     </div>
                   </div>
+
                 </div>
               </div>
             </div>
@@ -278,120 +286,122 @@
               </div>
               <div class="accordion-wrapper fade-anim">
                 <div class="accordion" id="accordionExample">
-                  <div class="accordion-item">
-                    <h2 class="accordion-header">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                        Bring their individual experience and creative?
-                      </button>
-                    </h2>
-                    <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                      <div class="accordion-body">
-                        People know what an FAQ is, so make that your page title. Don’t overcomplicate things by
-                        calling it “Good to Know” or “More Info”. Sometimes people put the frequently asked questions
-                        section on their Contact page, but you can create your own page and put it right in your
-                        website navigation menu
-                      </div>
-                    </div>
-                  </div>
+
                   <div class="accordion-item">
                     <h2 class="accordion-header">
                       <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                        Design should enrich our day?
+                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        What services does your digital marketing agency offer?
                       </button>
                     </h2>
-                    <div id="collapseTwo" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                       <div class="accordion-body">
-                        People know what an FAQ is, so make that your page title. Don’t overcomplicate things by
-                        calling it “Good to Know” or “More Info”. Sometimes people put the frequently asked questions
-                        section on their Contact page, but you can create your own page and put it right in your
-                        website navigation menu
+                        We provide a full suite of services including SEO, PPC advertising, social media management,
+                        content marketing,
+                        email marketing, web design, branding and analytics to help you grow your business online.
                       </div>
                     </div>
                   </div>
+
+                  <div class="accordion-item">
+                    <h2 class="accordion-header">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        How do you determine the right strategy for my business?
+                      </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                      <div class="accordion-body">
+                        We begin with a discovery session to understand your goals, audience and competitors.
+                        Based on research and data, we create a tailored digital marketing plan aligned to your
+                        objectives and budget.
+                      </div>
+                    </div>
+                  </div>
+
                   <div class="accordion-item">
                     <h2 class="accordion-header">
                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        Human centered design to challenges design theory?
+                        How long does it take to see results?
                       </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                       <div class="accordion-body">
-                        People know what an FAQ is, so make that your page title. Don’t overcomplicate things by
-                        calling it “Good to Know” or “More Info”. Sometimes people put the frequently asked questions
-                        section on their Contact page, but you can create your own page and put it right in your
-                        website navigation menu
+                        Timelines vary by service. SEO can take 3–6 months to show significant results, while paid
+                        advertising
+                        can generate leads immediately. We provide regular reports so you can track progress.
                       </div>
                     </div>
                   </div>
+
                   <div class="accordion-item">
                     <h2 class="accordion-header">
                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                        Align with your brand look and feel?
+                        What makes your agency different from others?
                       </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                       <div class="accordion-body">
-                        People know what an FAQ is, so make that your page title. Don’t overcomplicate things by
-                        calling it “Good to Know” or “More Info”. Sometimes people put the frequently asked questions
-                        section on their Contact page, but you can create your own page and put it right in your
-                        website navigation menu
+                        We combine creative thinking, data-driven strategies and transparent communication. Our
+                        campaigns are
+                        fully customized and focused on measurable outcomes rather than one-size-fits-all packages.
                       </div>
                     </div>
                   </div>
+
                   <div class="accordion-item">
                     <h2 class="accordion-header">
                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                        How to become an Agile productive manager?
+                        Do you work with businesses of all sizes?
                       </button>
                     </h2>
                     <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                       <div class="accordion-body">
-                        People know what an FAQ is, so make that your page title. Don’t overcomplicate things by
-                        calling it “Good to Know” or “More Info”. Sometimes people put the frequently asked questions
-                        section on their Contact page, but you can create your own page and put it right in your
-                        website navigation menu
+                        Yes, we partner with startups, small businesses and established brands across different
+                        industries.
+                        Our strategies scale to fit your business stage and goals.
                       </div>
                     </div>
                   </div>
+
                   <div class="accordion-item">
                     <h2 class="accordion-header">
                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                        Why we create the best Webflow websites in Figma?
+                        How do you measure success?
                       </button>
                     </h2>
                     <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                       <div class="accordion-body">
-                        People know what an FAQ is, so make that your page title. Don’t overcomplicate things by
-                        calling it “Good to Know” or “More Info”. Sometimes people put the frequently asked questions
-                        section on their Contact page, but you can create your own page and put it right in your
-                        website navigation menu
+                        We track KPIs like website traffic, conversion rates, cost per lead, ROI, and engagement
+                        metrics.
+                        Detailed monthly reports keep you informed on the impact of our work.
                       </div>
                     </div>
                   </div>
+
                   <div class="accordion-item">
                     <h2 class="accordion-header">
                       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                        How to manage Agile project teams?
+                        Can you integrate with our existing marketing team?
                       </button>
                     </h2>
                     <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                       <div class="accordion-body">
-                        People know what an FAQ is, so make that your page title. Don’t overcomplicate things by
-                        calling it “Good to Know” or “More Info”. Sometimes people put the frequently asked questions
-                        section on their Contact page, but you can create your own page and put it right in your
-                        website navigation menu
+                        Absolutely. We can act as a full-service partner or an extension of your existing marketing
+                        team,
+                        collaborating seamlessly to reach your objectives.
                       </div>
                     </div>
                   </div>
+
                 </div>
               </div>
+
             </div>
           </div>
         </section>
@@ -400,8 +410,8 @@
       </main>
 
       <!-- footer area start  -->
-     <?php  require_once 'elements/footer.php'
-?>
+      <?php require_once 'elements/footer.php'
+        ?>
       <!-- footer area end  -->
 
     </div>
