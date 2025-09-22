@@ -63,7 +63,7 @@
                 <div class="header__nav">
                     <nav class="main-menu">
                         <ul>
-                           
+
                             <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About Us</a></li>
                             <li class="menu-item-has-children">
@@ -71,12 +71,14 @@
                                 <ul class="dp-menu">
                                     <li><a href="digital-marketing.php">Digital Marketing</a></li>
                                     <li><a href="website-development.php">Website Development</a></li>
-                                    
+                                    <li><a href="seo.php">Search Engine Optimization</a></li>
+
+
                                     <li><a href="service-details.php">Service Details</a></li>
                                 </ul>
                             </li>
-                            
-                            
+
+
                             <li><a href="contact.php">Career</a></li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
