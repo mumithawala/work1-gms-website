@@ -166,7 +166,7 @@ work page css
 }
 
 :root {
-  --font_dmsans: "DM Sans", sans-serif;
+  --font_dmsans: "Instrument Sans", sans-serif;
   --font_instrumentsans: "Instrument Sans", sans-serif;
   --font_thunder: "Bebas Neue", sans-serif;
   --font_sequelsansromanbody: "Josefin Sans", sans-serif;
@@ -8179,7 +8179,7 @@ only screen and (max-width: 1919px) {
 
 @media only screen and (max-width: 1919px) {
   .services-wrapper-2 .service-box {
-    grid-template-columns: 215px 1fr 395px;
+    grid-template-columns: 215px 1fr 380px 54px;
   }
 }
 
@@ -8246,6 +8246,9 @@ only screen and (max-width: 1919px) {
 .services-wrapper-2 .service-box-wrapper:hover .service-box .number {
   transform: translateX(60px);
 }
+.services-wrapper-2 .service-box-wrapper:hover .service-box .icon {
+  transform: translateX(-60px);
+}
 
 @media only screen and (max-width: 991px) {
   .services-wrapper-2 .service-box-wrapper:hover .service-box .number {
@@ -8260,6 +8263,14 @@ only screen and (max-width: 1919px) {
   color: #FCF7F3;
   margin-top: 12px;
   transition: all 0.5s;
+}
+.services-wrapper-2 .service-box .icon {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  color: #FCF7F3;
+  margin-top: 12px;
+  transition: all 1s;
 }
 
 .dark .services-wrapper-2 .service-box .number {
@@ -13349,7 +13360,8 @@ only screen and (max-width: 1919px) {
   border-radius: 10px;
   transition: 1s cubic-bezier(0.445, 0.05, 0.55, 0.95);
   will-change: transform;
-  border: none;
+  /* border: 1px solid black; */
+  border-radius: 70px 10px;
 }
 
 .card-bg {
@@ -14870,14 +14882,26 @@ only screen and (max-width: 1919px) {
   grid-template-columns: repeat(4, 1fr);
 }
 
+.info-area-page-about .counter-wrapper-career {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
 @media only screen and (max-width: 991px) {
   .info-area-page-about .counter-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .info-area-page-about .counter-wrapper-career {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media only screen and (max-width: 767px) {
   .info-area-page-about .counter-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .info-area-page-about .counter-wrapper-career {
     grid-template-columns: repeat(1, 1fr);
   }
 }
@@ -28947,5 +28971,60 @@ START: Footer CSS
 .social-icons a{
   font-size: 25px;
 }
+ 
+.icon-effect {
+  font-size: 24px;                /* starting size */
+  color: #555;                    /* starting color */
+  transition: color 0.3s ease, 
+              transform 0.3s ease; /* smooth animation */
+}
+
+.icon-effect:hover {
+  color:var(--action);            /* new color on hover */
+  transform: scale(1.2);          /* grow slightly */
+}
+
+
+
+a.title-hover:hover  .title {
+  color: var(--action) !important;
+}
+
+a.title-hover:hover  .text {
+  color: var(--action) !important;
+}
+
+a.title-hover:hover  .icon-effect {
+  color: var(--action) !important;
+}
+
+a.title-hover:hover  .number {
+  color: var(--action) !important;
+}
+
+
+.name-box{
+  background-color: #000000e1;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+}
+
+.client-name{
+  font-weight: 700;
+  font-family: var(--font_instrumentsans);
+  color: var(--action);
+  font-size: 25px;
+}
+
+.designation-name{
+  font-weight: 500;
+  font-size: 15px;
+  color: var(--black-2);
+  line-height: 15px;
+  padding-top: 10px;
+}
+
 
 /*# sourceMappingURL=style.css.map */

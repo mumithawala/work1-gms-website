@@ -20,7 +20,11 @@
   <link rel="stylesheet" href="assets/vendor/magnific-popup.css">
   <link rel="stylesheet" href="assets/vendor/animate.min.css">
   <script src="https://kit.fontawesome.com/555d59b0c9.js" crossorigin="anonymous"></script>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 
 
 
@@ -53,7 +57,7 @@
 
   <!-- cursorAnimation start -->
   <?php require_once 'elements/header.php'
-  ?>
+    ?>
 
   <!-- Header area end -->
 
@@ -71,7 +75,7 @@
                 <div class="award-wrapper fade-anim" data-delay="0.90" data-direction="left" data-ease="back.out(4)">
                   <div class="circle-text-wrapper">
                     <div class="circle-text">
-                      <img src="assets/imgs/shape/1.gif" alt="image" class="icon" width="300px">
+                      <img src="assets/imgs/shape/gms.gif" alt="image" class="icon" width="300px">
                       <!-- <img src="assets/imgs/shape/shape-2.webp" alt="image" class="icon"> -->
                     </div>
                   </div>
@@ -79,8 +83,9 @@
                 <div class="section-header">
                   <div class="section-title-wrapper">
                     <div class="title-wrapper">
-                      <h2 class="section-title font-instrumentsans-medium char-anim" data-delay="0.45">Let’s Elevate Your Brand with <span><img class="title-shape-1 fade-anim" src="assets/imgs/shape/shape-1.webp" alt="image"
-                            data-direction="right" data-delay="1.80"></span>Smart Digital Work</h2>
+                      <h2 class="section-title font-instrumentsans-medium char-anim" data-delay="0.45">Let’s Elevate
+                        Your Brand with <span><img class="title-shape-1 fade-anim" src="assets/imgs/shape/gms-icon.png"
+                            alt="image" data-direction="right" data-delay="1.80"></span>Smart Digital Work</h2>
                     </div>
                   </div>
                 </div>
@@ -634,6 +639,84 @@
         </section>
         <!-- productivity area end  -->
 
+        <section class="work-area-5">
+          <div class="container large">
+            <div class="work-area-5-inner section-spacing-bottom">
+              <div class="works-wrapper-box">
+                <div class="works-wrapper-5">
+                  <div class="section-header span-2 fade-anim">
+                    <div class="section-title-wrapper">
+                      <div class="title-wrapper">
+                        <h2 class="section-title font-instrumentsans-medium word-anim fs-1">Clients
+                          feedback</h2>
+                        <p>Our happy customers give us impactfull
+                          and positive feedback on our services,
+                          customer supports & etc.</p>
+                      </div>
+                    </div>
+                    <div class="header-shape-1">
+                      <img src="assets/imgs/shape/shape-21.webp" alt="image">
+                    </div>
+                  </div>
+
+                  
+                 
+
+                      <a class="work-box card-wrap fade-anim" href="#" data-bs-toggle="modal" data-bs-target="#workModal"
+                    data-image="assets/imgs/project/c-1.jpg" data-client="Happy Patel"
+                    data-designation="Owner of Happy's Nail & Eyelash Studio Academy" data-iframe="https://www.youtube.com/embed/tsVV-rqqN1s?si=Hl8bDGOqtlwHsonU">
+                    <div class="card">
+                      <div class="card-bg"></div>
+                      <div class="thumb"></div>
+                      <div class="name-box">
+                        <p class="client-name">Happy Patel</p>
+                        <p class="designation-name">Owner of Happy's Nail & Eyelash Studio Academy</p>
+                        <!-- rame width="560" height="315" src="https://www.youtube.com/embed/tsVV-rqqN1s?si=Hl8bDGOqtlwHsonU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+                      </div>
+                    </div>
+                  </a>
+
+
+                  <a class="work-box card-wrap fade-anim" href="#" data-bs-toggle="modal" data-bs-target="#workModal"
+                    data-image="assets/imgs/project/c-2.jpg" data-client="Happy Patel"
+                    data-designation="Owner of Happy's Nail & Eyelash Studio Academy" data-iframe="https://www.youtube.com/embed/tsVV-rqqN1s?si=Hl8bDGOqtlwHsonU">
+                    <div class="card">
+                      <div class="card-bg">
+
+                      </div>
+                      <div class="thumb">
+                      </div>
+                      <div class="name-box">
+                        <p class="client-name">Vijay Sharma</p>
+                        <p class="designation-name">Owner of Dragon Tattoo Gallery</p>
+                      </div>
+                    </div>
+                  </a>
+
+                  <a class="work-box card-wrap fade-anim" href="#" data-bs-toggle="modal" data-bs-target="#workModal"
+                    data-image="assets/imgs/project/c-3.jpg" data-client="Happy Patel"
+                    data-designation="Owner of Happy's Nail & Eyelash Studio Academy" data-iframe="https://www.youtube.com/embed/-2RAq5o5pwc?si=OO7jNSFZTkDRpRLl">
+                    <div class="card">
+                      <div class="card-bg">
+
+                      </div>
+                      <div class="thumb">
+                      </div>
+                      <div class="name-box">
+                        <p class="client-name">Dhara Madlani</p>
+                        <p class="designation-name">Owner of Dt. Dhara Madlani</p>
+                      </div>
+                    </div>
+                  </a>
+
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <div class="image-wrapper parallax-view">
           <img class="w-100" src="assets/imgs/gallery/image-7.webp" alt="image" data-speed="0.1">
         </div>
@@ -642,13 +725,50 @@
 
       <!-- footer area start  -->
       <?php require_once 'elements/footer.php'
-      ?>
+        ?>
       <!-- footer area end  -->
 
     </div>
   </div>
+  <!-- Modal -->
+  <div class="modal fade" id="workModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content" style="width: auto;">
+        <!-- <div class="modal-header">
+          <h5 class="modal-title" id="workModalTitle">Client Name</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div> -->
+        <div class="modal-body">
+         
+           <iframe width="560" height="315" id="dataIframe" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+          
+        </div>
+      </div>
+    </div>
+
 
   <!-- Vendor JS Files -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const workModal = document.getElementById('workModal');
+      workModal.addEventListener('show.bs.modal', function (event) {
+        const trigger = event.relatedTarget; // the clicked link
+
+        // const image = trigger.getAttribute('data-iframe');
+        const iframe = trigger.getAttribute('data-iframe')
+        const client = trigger.getAttribute('data-client');
+        const designation = trigger.getAttribute('data-designation');
+
+        // workModal.querySelector('#workModalImage').src = image;
+        workModal.querySelector('#dataIframe').src = iframe;
+
+        // workModal.querySelector('#workModalTitle').textContent = client;
+        workModal.querySelector('#workModalDesignation').textContent = designation;
+      });
+    });
+  </script>
+
   <script src="assets/vendor/jquery-3.7.1.min.js"></script>
   <script src="assets/vendor/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.magnific-popup.min.js"></script>

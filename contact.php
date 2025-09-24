@@ -143,7 +143,7 @@
                     <p class="text">We’re excited to hear from you
                       and let’s start something special
                       together <br>
-                      <a href="mailTo:hello@redoxagency.com">hello@redoxagency.com</a>
+                      <a href="mailTo:info@gandhimediasolutions.com">info@gandhimediasolutions.com</a>
                     </p>
                   </div>
                   <div class="contact-social">
@@ -210,82 +210,8 @@
       </main>
 
       <!-- footer area start  -->
-      <footer class="footer-area-inner-page section-spacing-top">
-        <div class="container large">
-          <div class="footer-top-inner">
-            <div class="footer-logo">
-              <a href="index.html"><img src="assets/imgs/logo/logo-2-light.png" alt="site-logo"></a>
-            </div>
-            <div class="info-text">
-              <div class="text-wrapper">
-                <p class="text">Redox is a startup digital agency of design, development and marketing that works
-                  friendly with global client</p>
-              </div>
-              <div class="info-link">
-                <a href="mailto:info@redox.com">info@redox.com</a>
-              </div>
-            </div>
-          </div>
-          <div class="footer-widget-wrapper-box">
-            <div class="footer-widget-wrapper">
-              <div class="footer-widget-box newsletter">
-                <form action="#" class="subscribe-form">
-                  <div class="input-field">
-                    <input type="email" placeholder="Enter your email">
-                    <button type="submit" class="subscribe-btn"><img src="assets/imgs/icon/icon-1.webp"
-                        alt="image"></button>
-                  </div>
-                </form>
-                <div class="subscription-text">
-                  <div class="text-wrapper">
-                    <p class="text">By subscribing you agree with our
-                      <a href="#">Privacy Policy</a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div class="footer-widget-box">
-                <h2 class="title">Company</h2>
-                <ul class="footer-nav-list">
-                  <li><a href="#">agency</a></li>
-                  <li><a href="#">Solutions</a></li>
-                  <li><a href="#">Community</a></li>
-                  <li><a href="#">Work</a></li>
-                  <li><a href="#">Contact</a></li>
-                </ul>
-              </div>
-              <div class="footer-widget-box">
-                <h2 class="title">Social</h2>
-                <ul class="footer-nav-list">
-                  <li><a href="#">Facebook</a></li>
-                  <li><a href="#">Twitter</a></li>
-                  <li><a href="#">Dribbble</a></li>
-                  <li><a href="#">Instagram</a></li>
-                  <li><a href="#">Awwwards</a></li>
-                  <li><a href="#">YouTube</a></li>
-                </ul>
-              </div>
-              <div class="footer-widget-box">
-                <h2 class="title">Office</h2>
-                <ul class="footer-nav-list">
-                  <li><a href="#">New York</a></li>
-                  <li><a href="#">Toronto</a></li>
-                  <li><a href="#">Berlin</a></li>
-                  <li><a href="#">London</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="copyright-area">
-          <div class="copyright-area-inner">
-            <div class="copyright-text">
-              <p class="text">© 2025 <a href="https://themeforest.net/user/ravextheme">RavexTheme.</a> All right
-                reserved</p>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <?php require_once 'elements/footer.php' 
+      ?>
       <!-- footer area end  -->
 
     </div>

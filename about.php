@@ -63,11 +63,12 @@
           <div class="container large">
             <div class="page-title-area-inner section-spacing-top">
               <div class="page-title-wrapper">
-                <h2 class="page-title fade-anim" style="font-size: 460px;">Since 2021</h2>
+                <h2 class="page-title fade-anim" >Since 2021</h2>
               </div>
             </div>
           </div>
         </section>
+     
         <!-- page title area end  -->
 
         <!-- about area start  -->

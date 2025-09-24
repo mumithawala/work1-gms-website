@@ -2,7 +2,7 @@
     <div class="container large">
         <div class="footer-top-inner d-flex align-items-center justify-content-between">
             <div class="footer-logo">
-                <a href="index.html"><img src="assets/imgs/logo/logo.png" alt="site-logo"></a>
+                <a href="index.html"><img src="assets/imgs/logo/gms-logo.png" alt="site-logo"></a>
             </div>
             <div class="info-text">
                 <div class="text-wrapper">
@@ -102,7 +102,7 @@
     <div class="copyright-area">
         <div class="copyright-area-inner">
             <div class="copyright-text">
-                <p class="text fs-6">© 2025 <a href="https://themeforest.net/user/ravextheme">Gandhi Media Solutions.</a> All right
+                <p class="text fs-6">© 2025 <a href="#">Gandhi Media Solutions.</a> All right
                     reserved</p>
             </div>
         </div>

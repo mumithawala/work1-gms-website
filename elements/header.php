@@ -57,7 +57,7 @@
             <div class="header-area__inner">
                 <div class="header__logo">
                     <a href="index.php">
-                        <img src="assets/imgs/logo/logo.png" class="normal-logo" alt="Site Logo">
+                        <img src="assets/imgs/logo/gms-logo.png" class="normal-logo" alt="Site Logo">
                     </a>
                 </div>
                 <div class="header__nav">
@@ -72,14 +72,17 @@
                                     <li><a href="digital-marketing.php">Digital Marketing</a></li>
                                     <li><a href="website-development.php">Website Development</a></li>
                                     <li><a href="seo.php">Search Engine Optimization</a></li>
+                                    <li><a href="local-seo.php">Local SEO</a></li>
+                                    <li><a href="pay-per-click-marketing.php">Pay Per Click Marketing</a></li>
+                                    <li><a href="social-media-marketing.php">Social Media Marketing</a></li>
 
 
-                                    <li><a href="service-details.php">Service Details</a></li>
+                                    <!-- <li><a href="service-details.php">Service Details</a></li> -->
                                 </ul>
                             </li>
 
 
-                            <li><a href="contact.php">Career</a></li>
+                            <li><a href="career.php">Career</a></li>
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </nav>
