@@ -20,8 +20,9 @@
   <link rel="stylesheet" href="assets/vendor/magnific-popup.css">
   <link rel="stylesheet" href="assets/vendor/animate.min.css">
   <script src="https://kit.fontawesome.com/555d59b0c9.js" crossorigin="anonymous"></script>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
- 
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
   <!-- Template Main CSS File -->
   <link rel="stylesheet" href="assets/css/style.css">
 
@@ -33,6 +34,7 @@
   <div id="preloader">
     <div id="container" class="container-preloader">
       <div class="animation-preloader">
+
         <div class="spinner"></div>
 
       </div>
@@ -48,8 +50,8 @@
     </svg>
   </div>
 
-<?php  require_once 'elements/header.php'
-?>
+  <?php require_once 'elements/header.php'
+    ?>
   <!-- Header area end -->
 
   <div class="has-smooth" id="has_smooth"></div>
@@ -63,12 +65,12 @@
           <div class="container large">
             <div class="page-title-area-inner section-spacing-top">
               <div class="page-title-wrapper">
-                <h2 class="page-title fade-anim" >Since 2021</h2>
+                <h2 class="page-title fade-anim">Since 2021</h2>
               </div>
             </div>
           </div>
         </section>
-     
+
         <!-- page title area end  -->
 
         <!-- about area start  -->
@@ -97,9 +99,15 @@
                   </ul>
                 </div>
                 <div class="section-content">
-                  <div class="text-wrapper fs-5 data-direction="right">
-                    <p class="text">At <b>Gandhi Media Solution</b>, we believe that every brand has a story worth telling. Founded and led by <b>Abhishek Gandhi</b>, our agency is built on the passion to connect businesses with their audiences through innovative, data-driven digital marketing.</p>
-                    <p class="text">We specialize in crafting tailored strategies that blend creativity with technology—helping our clients boost visibility, build trust, and grow sustainably in an ever-evolving online world. From search engine optimization and social media marketing to content creation, paid campaigns, and branding solutions, we deliver measurable results with transparency and integrity.</p>
+                  <div class="text-wrapper fs-5 data-direction=" right">
+                    <p class="text">At <b>Gandhi Media Solution</b>, we believe that every brand has a story worth
+                      telling. Founded and led by <b>Abhishek Gandhi</b>, our agency is built on the passion to connect
+                      businesses with their audiences through innovative, data-driven digital marketing.</p>
+                    <p class="text">We specialize in crafting tailored strategies that blend creativity with
+                      technology—helping our clients boost visibility, build trust, and grow sustainably in an
+                      ever-evolving online world. From search engine optimization and social media marketing to content
+                      creation, paid campaigns, and branding solutions, we deliver measurable results with transparency
+                      and integrity.</p>
                   </div>
                   <div class="btn-wrapper" data-direction="right">
                     <a href="about.html" class="rr-btn">
@@ -154,31 +162,34 @@
                 <div class="approach-wrapper fade-anim">
                   <div class="approach-box">
                     <h2 class="title">Discover & <br>
-                    Understandy <img src="assets/imgs/shape/shape-13.webp" alt="image"></h2>
+                      Understandy <img src="assets/imgs/shape/shape-13.webp" alt="image"></h2>
                     <div class="approach-list">
                       <ul>
-                        <li>We start by deeply understanding <br> your brand, audience, and goals. <br> This research gives us clear insights <br> to build the right strategy.s</li>
-                        
+                        <li>We start by deeply understanding <br> your brand, audience, and goals. <br> This research
+                          gives us clear insights <br> to build the right strategy.s</li>
+
                       </ul>
                     </div>
                   </div>
                   <div class="approach-box">
                     <h2 class="title">Strategize & <br>
-                    Create<img src="assets/imgs/shape/shape-13.webp" alt="image"></h2>
+                      Create<img src="assets/imgs/shape/shape-13.webp" alt="image"></h2>
                     <div class="approach-list">
                       <ul>
-                          <li>Using data and creativity,<br> we craft custom digital marketing <br> plans, campaigns, and content <br> that align with your objectives.</li>
-                        
+                        <li>Using data and creativity,<br> we craft custom digital marketing <br> plans, campaigns, and
+                          content <br> that align with your objectives.</li>
+
                       </ul>
                     </div>
                   </div>
                   <div class="approach-box">
                     <h2 class="title">Execute & <br>
-                    Optimize </h2>
+                      Optimize </h2>
                     <div class="approach-list">
                       <ul>
-                        <li>We launch, monitor, and <br> continually refine campaigns to <br> maximize performance and <br> deliver measurable results.</li>
-                        
+                        <li>We launch, monitor, and <br> continually refine campaigns to <br> maximize performance and
+                          <br> deliver measurable results.</li>
+
                       </ul>
                     </div>
                   </div>
@@ -245,86 +256,6 @@
               <div class="clients-wrapper">
                 <div class="swiper client-slider-active">
                   <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-1.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-2.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-3.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-4.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-5.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-6.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-7.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-8.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-1.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-2.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-3.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-4.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-5.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-6.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-7.webp" alt="image">
-                      </div>
-                    </div>
-                    <div class="swiper-slide">
-                      <div class="client-box">
-                        <img src="assets/imgs/client/client-8.webp" alt="image">
-                      </div>
-                    </div>
                   </div>
                 </div>
 
@@ -570,16 +501,61 @@
 
       <!-- footer area start  -->
       <?php require_once 'elements/footer.php'
-      ?>
+        ?>
       <!-- footer area end  -->
 
-     
+
       <!-- footer area end  -->
 
     </div>
   </div>
 
   <!-- Vendor JS Files -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // ### PART 1: CREATE THE LOGO SLIDES ###
+
+    const totalImages = 23;
+    const swiperWrapper = document.querySelector('.client-slider-active .swiper-wrapper');
+
+    if (swiperWrapper) {
+      let allSlidesHTML = '';
+
+      // Create the HTML for all 23 slides
+      for (let i = 1; i <= 23; i++) {
+        allSlidesHTML += `
+          <div class="swiper-slide">
+            <div class="client-box">
+              <img src="assets/imgs/client/${i}.png" alt="Client Logo ${i}">
+            </div>
+          </div>
+        `;
+      }
+
+      // Add the slides to the page
+      swiperWrapper.innerHTML = allSlidesHTML;
+
+      // ### PART 2: INITIALIZE THE SWIPER SLIDER ###
+      // Now that the slides exist, we can activate the slider.
+      
+      const clientSlider = new Swiper('.client-slider-active', {
+        // Optional parameters
+        direction: 'horizontal',
+        loop: true,
+        slidesPerView: 'auto', // Shows as many as fit
+        spaceBetween: 30,      // Space between logos
+        speed: 5000,           // Animation speed in ms
+        
+        autoplay: {
+          delay: 0, // Delay between transitions (0 for continuous)
+          disableOnInteraction: false,
+        },
+      });
+      
+      console.log("Swiper slider initialized successfully!");
+    }
+  });
+</script>
   <script src="assets/vendor/jquery-3.7.1.min.js"></script>
   <script src="assets/vendor/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.magnific-popup.min.js"></script>
