@@ -116,14 +116,14 @@
                 </div>
               </div>
               <div class="big-text-wrapper">
-                <h2 class="big-text">GMS
+                <h2 class="big-text">Gandhi Media 
                 </h2>
               </div>
 
             </div>
           </div>
         </section>
-        <!-- hero area end  -->
+         <!-- hero area end  -->
 
         <!-- about area start  -->
         <section class="about-area py-5 ">
@@ -513,74 +513,78 @@
                 <div class="client-capsule-wrapper">
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-9-light.webp" alt="image">
+                      <img src="assets/imgs/client/h-1.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box">
-                      <img src="assets/imgs/client/client-10.webp" alt="image">
-                    </span>
-                  </p>
-                  <p data-t-throwable-el="">
-                    <span class="client-box">
-                      <img src="assets/imgs/client/client-11.webp" alt="image">
+                      <img src="assets/imgs/client/h2.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-12-light.webp" alt="image">
+                      <img src="assets/imgs/client/h3.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
-                    <span class="client-box">
-                      <img src="assets/imgs/client/client-13.webp" alt="image">
-                    </span>
-                  </p>
-                  <p data-t-throwable-el="">
-                    <span class="client-box">
-                      <img src="assets/imgs/client/client-14.webp" alt="image">
+                    <span class="client-box ">
+                      <img src="assets/imgs/client/h4.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-15-light.webp" alt="image">
+                      <img src="assets/imgs/client/h5.png" alt="image">
+                    </span>
+                  </p>
+                  <p data-t-throwable-el="">
+                    <span class="client-box">
+                      <img src="assets/imgs/client/19.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-16-light.webp" alt="image">
-                    </span>
-                  </p>
-                  <p data-t-throwable-el="">
-                    <span class="client-box">
-                      <img src="assets/imgs/client/client-17.webp" alt="image">
+                      <img src="assets/imgs/client/h7.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-18-light.webp" alt="image">
-                    </span>
-                  </p>
-                  <p data-t-throwable-el="">
-                    <span class="client-box">
-                      <img src="assets/imgs/client/client-19.webp" alt="image">
+                      <img src="assets/imgs/client/h8.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-20-light.webp" alt="image">
+                      <img src="assets/imgs/client/h9.png" alt="image">
+                    </span>
+                  </p>
+                  <p data-t-throwable-el="">
+                    <span class="client-box bg-theme">
+                      <img src="assets/imgs/client/h6.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box">
-                      <img src="assets/imgs/client/client-21.webp" alt="image">
+                      <img src="assets/imgs/client/h10.png" alt="image">
                     </span>
                   </p>
-                  <p data-t-throwable-el="">
+                   <p data-t-throwable-el="">
                     <span class="client-box">
-                      <img src="assets/imgs/client/client-22.webp" alt="image">
+                      <img src="assets/imgs/client/h11.png" alt="image">
                     </span>
                   </p>
+                  
+
+                   <p data-t-throwable-el="">
+                    <span class="client-box">
+                      <img src="assets/imgs/client/h12.png" alt="image">
+                    </span>
+                  </p>
+                   <p data-t-throwable-el="">
+                    <span class="client-box">
+                      <img src="assets/imgs/client/h13.png" alt="image">
+                    </span>
+                  </p>
+               
+                
                 </div>
               </div>
               <div class="lines-wrapper">
