@@ -65,7 +65,7 @@
           <div class="container large">
             <div class="page-title-area-inner section-spacing-top">
               <div class="page-title-wrapper">
-                <h2 class="page-title fade-anim">Since 2021</h2>
+                <h2 class="page-title fade-anim">Since 2018</h2>
               </div>
             </div>
           </div>
@@ -121,7 +121,7 @@
               </div>
             </div>
           </div>
-          <div class="moving-gallery fade-anim">
+          <!-- <div class="moving-gallery fade-anim">
             <ul class="wrapper-gallery">
               <li>
                 <img src="assets/imgs/gallery/image-19.webp" alt="image">
@@ -139,7 +139,7 @@
                 <img src="assets/imgs/gallery/image-19.webp" alt="image">
               </li>
             </ul>
-          </div>
+          </div> -->
         </section>
         <!-- about area end  -->
 
@@ -367,9 +367,7 @@
                     <span class="section-subtitle">Team</span>
                   </div>
                   <div class="title-wrapper">
-                    <h2 class="section-title font-sequelsans-romanbody">Meet the talented
-                      squad, behind the
-                      creativity</h2>
+                    <h2 class="section-title font-sequelsans-romanbody">Meet the Visionary Behind the Brand</h2>
                   </div>
                 </div>
               </div>
@@ -419,7 +417,7 @@
         <!-- team area end  -->
 
         <!-- team list area start  -->
-        <div class="team-list-area">
+        <!-- <div class="team-list-area">
           <div class="container large">
             <div class="team-list-area-inner">
               <div class="team-wrapper-box fade-anim">
@@ -494,7 +492,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
         <!-- team list area end  -->
 
       </main>

@@ -72,7 +72,7 @@
                                     <li><a href="digital-marketing.php">Digital Marketing</a></li>
                                     <li><a href="website-development.php">Website Development</a></li>
                                     <li><a href="seo.php">Search Engine Optimization</a></li>
-                                    <li><a href="local-seo.php">Local SEO</a></li>
+                                    <!-- <li><a href="local-seo.php">Local SEO</a></li> -->
                                     <li><a href="pay-per-click-marketing.php">Pay Per Click Marketing</a></li>
                                     <li><a href="social-media-marketing.php">Social Media Marketing</a></li>
 
