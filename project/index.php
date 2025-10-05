@@ -116,7 +116,7 @@
                 </div>
               </div>
               <div class="big-text-wrapper">
-                <h2 class="big-text">Gandhi
+                <h2 class="big-text">Gandhi Media
                 </h2>
               </div>
 
@@ -136,7 +136,7 @@
                 <div class="shape-4"></div>
                 <div class="section-title-wrapper">
                   <div class="title-wrapper">
-                    <h2 class="section-title font-instrumentsans-medium">Gandhi</h2>
+                    <h2 class="section-title font-instrumentsans-medium">Gandhi Media</h2>
                   </div>
                 </div>
                 <div class="text-wrapper">
