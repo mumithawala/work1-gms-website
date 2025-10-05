@@ -71,15 +71,12 @@
                     <div class="container large">
                         <div class="hero-area-service-details-inner section-spacing-top">
                             <div class="service-meta fade-anim">
-                                <!-- <span class="serial">[SL: 005]</span> -->
-                                <!-- <span class="tag">[Brand Guideline]</span> -->
-                                <!-- <span class="next-item"><a href="service-details.html">[Next]</a></span> -->
                             </div>
                             <div class="section-header fade-anim">
                                 <div class="section-title-wrapper">
                                     <div class="title-wrapper">
-                                        <h2 class="section-title font-sequelsans-romanbody">Local
-                                            SEO</h2>
+                                        <h2 class="section-title font-sequelsans-romanbody">Graphic
+                                            Design</h2>
                                     </div>
                                 </div>
                             </div>
@@ -87,26 +84,26 @@
                                 <div class="section-content">
                                     <div class="text-wrapper">
                                         <p class="text text-justify">
-                                            At <b>Gandhi Media Solutions</b>, we understand that having a beautifully
-                                            designed
-                                            website is just the beginning. To truly succeed in the digital landscape,
-                                            your website needs to be optimized for search engines to ensure maximum
-                                            visibility, traffic, and conversions. Our comprehensive Website SEO services
-                                            are designed to help your website climb the ranks, attract targeted traffic,
-                                            and achieve sustainable growth.</p>
+                                            At <b>Gandhi Media Solutions</b>, we believe that great design is at the
+                                            heart of every successful brand. It's more than just aesthetics; it's about
+                                            communicating your message effectively and creating a lasting impression.
+                                            Our comprehensive Graphic Design services are tailored to bring your vision
+                                            to life, captivate your audience, and help your business stand out in a
+                                            crowded marketplace.
+                                        </p>
                                     </div>
                                     <div class="feature-list">
                                         <ul>
-                                            <li> Google My Business optimization </li>
-                                            <li> Local citation & Directories</li>
-                                            <li> Localized content</li>
-                                            <li> Schema Markup for local Business</li>
-
+                                            <li> Logo Design & Brand Identity</li>
+                                            <li> Marketing & Advertising Collateral</li>
+                                            <li> Digital Graphics for Web & Social Media</li>
+                                            <li> UI/UX Design for Applications</li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="section-thumb parallax-view">
-                                    <img src="assets/imgs/gallery/local.png" alt="image" data-speed="0.8">
+                                    <img src="assets/imgs/gallery/graphic-design.png"
+                                        alt="A collage of graphic design work" data-speed="0.8">
                                 </div>
                             </div>
                         </div>
@@ -139,42 +136,41 @@
 
                                     <div class="approach-box">
                                         <span class="number">01</span>
-                                        <h3 class="title">Local SEO Audit & Planning</h3>
+                                        <h3 class="title">Discovery & Brand Strategy</h3>
                                         <p class="text">
-                                            We begin by analyzing your current local search presence, competitors, and
-                                            target service areas,
-                                            then develop a tailored roadmap to boost your visibility in local results.
+                                            We start by diving deep into your brand, goals, and target audience. This
+                                            collaborative phase ensures we understand your vision and lay a strategic
+                                            foundation for the entire design project.
                                         </p>
                                     </div>
 
                                     <div class="approach-box">
                                         <span class="number">02</span>
-                                        <h3 class="title">Profile & On-Page Optimization</h3>
+                                        <h3 class="title">Concept Development & Ideation</h3>
                                         <p class="text">
-                                            Our team optimizes your Google Business Profile, NAP details, location
-                                            pages, and on-site content
-                                            to ensure accuracy, consistency, and higher local rankings.
+                                            Based on our strategy, our creative team brainstorms and develops initial
+                                            concepts. We explore various visual directions through mood boards,
+                                            sketches, and mockups to find the perfect creative solution.
                                         </p>
                                     </div>
 
                                     <div class="approach-box">
                                         <span class="number">03</span>
-                                        <h3 class="title">Local Link Building & Content</h3>
+                                        <h3 class="title">Design Execution & Refinement</h3>
                                         <p class="text">
-                                            We earn quality local backlinks, manage citations, and create geo-targeted
-                                            content campaigns
-                                            to strengthen your authority within your region.
+                                            Once a concept is approved, we bring it to life with meticulous attention to
+                                            detail, incorporating your feedback through an iterative process to ensure
+                                            the final result is pixel-perfect.
                                         </p>
                                     </div>
 
                                     <div class="approach-box">
                                         <span class="number">04</span>
-                                        <h3 class="title">Tracking & Continuous Growth</h3>
+                                        <h3 class="title">Finalization & Asset Delivery</h3>
                                         <p class="text">
-                                            We track map pack rankings, calls, and website visits with advanced
-                                            analytics,
-                                            providing transparent reports and ongoing optimizations to keep your local
-                                            SEO thriving.
+                                            We prepare and deliver all the final design assets in the required formats
+                                            for both print and digital use. Our team ensures a smooth handover for a
+                                            successful project launch and beyond.
                                         </p>
                                     </div>
 
@@ -256,48 +252,46 @@
                         <div class="value-area-inner section-spacing">
                             <div class="section-content-wrapper fade-anim">
                                 <div class="section-thumb parallax-view">
-                                    <img src="assets/imgs/gallery/1.jpg" alt="image" data-speed="0.8">
+                                    <img src="assets/imgs/gallery/design-value.jpg"
+                                        alt="A designer presenting a new brand identity project" data-speed="0.8">
                                 </div>
                                 <div class="section-content">
                                     <div class="section-title-wrapper">
                                         <div class="title-wrapper">
-                                            <h2 class="section-title font-sequelsans-romanbody">Chart a course to local
-                                                prominence
-                                                and unlock business prosperity with
-                                                our SEO mastery</h2>
+                                            <h2 class="section-title font-sequelsans-romanbody">Craft a memorable brand
+                                                identity
+                                                and elevate your business with the
+                                                power of strategic design</h2>
                                         </div>
                                     </div>
                                     <div class="values-wrapper">
                                         <div class="value-box">
-                                            <h3 class="number">250+</h3>
+                                            <h3 class="number">400+</h3>
                                             <p class="text">
-                                                Local SEO campaigns successfully executed for businesses of all sizes,
-                                                improving visibility in Google Maps
-                                                and local search results.
+                                                Branding and design projects successfully delivered, helping startups
+                                                and established companies craft powerful new visual identities from the
+                                                ground up.
                                             </p>
                                         </div>
 
                                         <div class="value-box">
-                                            <h3 class="number">97%</h3>
+                                            <h3 class="number">98%</h3>
                                             <p class="text">
-                                                Client satisfaction rate thanks to accurate business listings, optimized
-                                                Google Business Profiles,
-                                                and measurable improvements in local rankings.
+                                                Client satisfaction rate achieved through a collaborative creative
+                                                process, a commitment to deadlines, and a passion for exceeding visual
+                                                expectations.
                                             </p>
                                         </div>
 
                                         <div class="value-box">
-                                            <h3 class="number">3X</h3>
+                                            <h3 class="number">85%</h3>
                                             <p class="text">
-                                                Average increase in calls, visits, and leads from local customers
-                                                achieved after implementing our
-                                                data-driven local SEO strategies.
+                                                Of our clients report a significant improvement in brand perception and
+                                                audience engagement after launching their new, professionally designed
+                                                assets.
                                             </p>
                                         </div>
                                     </div>
-
-
-
                                 </div>
                             </div>
                         </div>

@@ -249,11 +249,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-1.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-1.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Panda Automap</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Panda Automap</a></h3>
                       <div class="meta">
                         <span class="tag">Development</span>
                         <span class="date">2025</span>
@@ -264,11 +264,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-2.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-2.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Saudi Venture Capital</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Saudi Venture Capital</a></h3>
                       <div class="meta">
                         <span class="tag">Graphics</span>
                         <span class="date">2025</span>
@@ -278,11 +278,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-3.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-3.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Rebrand Lawberry</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Rebrand Lawberry</a></h3>
                       <div class="meta">
                         <span class="tag">Motion, Design</span>
                         <span class="date">2025</span>
@@ -292,11 +292,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-4.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-4.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Selicon Cloud Cave</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Selicon Cloud Cave</a></h3>
                       <div class="meta">
                         <span class="tag">UI Design</span>
                         <span class="date">2025</span>
@@ -306,11 +306,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-5.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-5.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Mountain Upwork</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Mountain Upwork</a></h3>
                       <div class="meta">
                         <span class="tag">Branding</span>
                         <span class="date">2025</span>
@@ -320,11 +320,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-6.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-6.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Blacky Motorola</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Blacky Motorola</a></h3>
                       <div class="meta">
                         <span class="tag">UI Design</span>
                         <span class="date">2025</span>
@@ -513,74 +513,78 @@
                 <div class="client-capsule-wrapper">
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-9-light.webp" alt="image">
+                      <img src="assets/imgs/client/h-1.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box">
-                      <img src="assets/imgs/client/client-10.webp" alt="image">
-                    </span>
-                  </p>
-                  <p data-t-throwable-el="">
-                    <span class="client-box">
-                      <img src="assets/imgs/client/client-11.webp" alt="image">
+                      <img src="assets/imgs/client/h2.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-12-light.webp" alt="image">
+                      <img src="assets/imgs/client/h3.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
-                    <span class="client-box">
-                      <img src="assets/imgs/client/client-13.webp" alt="image">
-                    </span>
-                  </p>
-                  <p data-t-throwable-el="">
-                    <span class="client-box">
-                      <img src="assets/imgs/client/client-14.webp" alt="image">
+                    <span class="client-box ">
+                      <img src="assets/imgs/client/h4.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-15-light.webp" alt="image">
+                      <img src="assets/imgs/client/h5.png" alt="image">
+                    </span>
+                  </p>
+                  <p data-t-throwable-el="">
+                    <span class="client-box">
+                      <img src="assets/imgs/client/19.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-16-light.webp" alt="image">
-                    </span>
-                  </p>
-                  <p data-t-throwable-el="">
-                    <span class="client-box">
-                      <img src="assets/imgs/client/client-17.webp" alt="image">
+                      <img src="assets/imgs/client/h7.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-18-light.webp" alt="image">
-                    </span>
-                  </p>
-                  <p data-t-throwable-el="">
-                    <span class="client-box">
-                      <img src="assets/imgs/client/client-19.webp" alt="image">
+                      <img src="assets/imgs/client/h8.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box bg-theme">
-                      <img src="assets/imgs/client/client-20-light.webp" alt="image">
+                      <img src="assets/imgs/client/h9.png" alt="image">
+                    </span>
+                  </p>
+                  <p data-t-throwable-el="">
+                    <span class="client-box bg-theme">
+                      <img src="assets/imgs/client/h6.png" alt="image">
                     </span>
                   </p>
                   <p data-t-throwable-el="">
                     <span class="client-box">
-                      <img src="assets/imgs/client/client-21.webp" alt="image">
+                      <img src="assets/imgs/client/h10.png" alt="image">
                     </span>
                   </p>
-                  <p data-t-throwable-el="">
+                   <p data-t-throwable-el="">
                     <span class="client-box">
-                      <img src="assets/imgs/client/client-22.webp" alt="image">
+                      <img src="assets/imgs/client/h11.png" alt="image">
                     </span>
                   </p>
+                  
+
+                   <p data-t-throwable-el="">
+                    <span class="client-box">
+                      <img src="assets/imgs/client/h12.png" alt="image">
+                    </span>
+                  </p>
+                   <p data-t-throwable-el="">
+                    <span class="client-box">
+                      <img src="assets/imgs/client/h13.png" alt="image">
+                    </span>
+                  </p>
+               
+                
                 </div>
               </div>
               <div class="lines-wrapper">

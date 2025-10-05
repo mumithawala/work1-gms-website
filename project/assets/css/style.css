@@ -2850,7 +2850,7 @@ section {
 .main-menu ul.dp-menu {
   background-color: #232529;
   padding: 18px 0px;
-  width: 250px;
+  width: 290px;
   position: absolute;
   inset-inline-start: 10px;
   opacity: 0;
@@ -14982,6 +14982,8 @@ only screen and (max-width: 1919px) {
   gap: 0;
   justify-content: center;
   flex-wrap: wrap;
+  background-color: #ffffff;
+  padding: 15px 0px;
 }
 
 .client-area-page-about .clients-wrapper .client-slider-active .swiper-slide {
