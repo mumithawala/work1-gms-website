@@ -121,25 +121,7 @@
               </div>
             </div>
           </div>
-          <!-- <div class="moving-gallery fade-anim">
-            <ul class="wrapper-gallery">
-              <li>
-                <img src="assets/imgs/gallery/image-19.webp" alt="image">
-              </li>
-              <li>
-                <img src="assets/imgs/gallery/image-20.webp" alt="image">
-              </li>
-              <li>
-                <img src="assets/imgs/gallery/image-21.webp" alt="image">
-              </li>
-              <li>
-                <img src="assets/imgs/gallery/image-22.webp" alt="image">
-              </li>
-              <li>
-                <img src="assets/imgs/gallery/image-19.webp" alt="image">
-              </li>
-            </ul>
-          </div> -->
+
         </section>
         <!-- about area end  -->
 

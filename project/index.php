@@ -249,11 +249,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-1.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-1.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Panda Automap</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Panda Automap</a></h3>
                       <div class="meta">
                         <span class="tag">Development</span>
                         <span class="date">2025</span>
@@ -264,11 +264,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-2.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-2.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Saudi Venture Capital</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Saudi Venture Capital</a></h3>
                       <div class="meta">
                         <span class="tag">Graphics</span>
                         <span class="date">2025</span>
@@ -278,11 +278,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-3.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-3.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Rebrand Lawberry</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Rebrand Lawberry</a></h3>
                       <div class="meta">
                         <span class="tag">Motion, Design</span>
                         <span class="date">2025</span>
@@ -292,11 +292,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-4.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-4.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Selicon Cloud Cave</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Selicon Cloud Cave</a></h3>
                       <div class="meta">
                         <span class="tag">UI Design</span>
                         <span class="date">2025</span>
@@ -306,11 +306,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-5.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-5.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Mountain Upwork</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Mountain Upwork</a></h3>
                       <div class="meta">
                         <span class="tag">Branding</span>
                         <span class="date">2025</span>
@@ -320,11 +320,11 @@
                   <div class="work-box">
                     <div class="thumb">
                       <div class="image scale" data-cursor-text="View Project">
-                        <a href="portfolio-details.html"><img src="assets/imgs/project/image-6.webp" alt="image"></a>
+                        <a href="portfolio-details.php"><img src="assets/imgs/project/image-6.webp" alt="image"></a>
                       </div>
                     </div>
                     <div class="content">
-                      <h3 class="title"><a href="portfolio-details.html">Blacky Motorola</a></h3>
+                      <h3 class="title"><a href="portfolio-details.php">Blacky Motorola</a></h3>
                       <div class="meta">
                         <span class="tag">UI Design</span>
                         <span class="date">2025</span>
@@ -570,24 +570,27 @@
                       <img src="assets/imgs/client/h10.png" alt="image">
                     </span>
                   </p>
-                  <p data-t-throwable-el="">
+
+                   <p data-t-throwable-el="">
+
                     <span class="client-box">
                       <img src="assets/imgs/client/h11.png" alt="image">
                     </span>
                   </p>
 
 
+
                   <p data-t-throwable-el="">
+
                     <span class="client-box">
                       <img src="assets/imgs/client/h12.png" alt="image">
                     </span>
                   </p>
-                  <p data-t-throwable-el="">
+                   <p data-t-throwable-el="">
                     <span class="client-box">
                       <img src="assets/imgs/client/h13.png" alt="image">
                     </span>
                   </p>
-
 
                 </div>
               </div>

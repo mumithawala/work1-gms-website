@@ -173,7 +173,7 @@
                       <div class="contact-formfield">
                         <input type="text" name="company" id="company" placeholder="Company">
                       </div>
-                      <div class="contact-formfield">
+                      <!-- <div class="contact-formfield">
                         <select name="Budget" id="Budget">
                           <option value="0" disabled selected>Budget*</option>
                           <option value="1">5,000 - 10,000</option>
@@ -182,10 +182,10 @@
                           <option value="4">20,000 - 25,000</option>
                           <option value="5">25,000 - Above</option>
                         </select>
-                      </div>
-                      <div class="contact-formfield">
+                      </div> -->
+                      <!-- <div class="contact-formfield">
                         <input type="text" name="solution" id="solution" placeholder="Solution*">
-                      </div>
+                      </div> -->
                       <div class="contact-formfield message">
                         <input type="text" name="message" id="message" placeholder="Message*">
                       </div>
