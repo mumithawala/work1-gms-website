@@ -116,7 +116,7 @@
                 </div>
               </div>
               <div class="big-text-wrapper">
-                <h2 class="big-text">GMS
+                <h2 class="big-text">Gandhi
                 </h2>
               </div>
 
@@ -136,7 +136,7 @@
                 <div class="shape-4"></div>
                 <div class="section-title-wrapper">
                   <div class="title-wrapper">
-                    <h2 class="section-title font-instrumentsans-medium">GMS</h2>
+                    <h2 class="section-title font-instrumentsans-medium">Gandhi</h2>
                   </div>
                 </div>
                 <div class="text-wrapper">
@@ -160,11 +160,11 @@
         <!-- about area end  -->
 
         <!-- video-box start -->
-        <div class="video-box">
+        <!-- <div class="video-box">
           <video class="video-area" loop="" muted="" autoplay="" playsinline="">
             <source src="https://rrdevs.net/project-video/group-meeting.mp4" type="video/mp4">
           </video>
-        </div>
+        </div> -->
         <!-- video-box end -->
 
         <!-- work area start  -->
@@ -391,6 +391,8 @@
                         <li><a href="service-details.html">Performance Marketing</a></li>
                         <li><a href="service-details.html">Ecommerce Ads</a></li>
                         <li><a href="service-details.html">YouTube Ads</a></li>
+                        <li><a href="service-details.html">Media Buying</a></li>
+
                       </ul>
                     </div>
                     <div class="thumb">
@@ -410,6 +412,8 @@
                         <li><a href="website-development.php">Laravel Framework</a></li>
                         <li><a href="website-development.php">React & Flutter</a></li>
                         <li><a href="website-development.php">Shopify</a></li>
+                                                <li><a href="website-development.php">Custom</a></li>
+
                       </ul>
                     </div>
                     <div class="thumb">
@@ -467,16 +471,16 @@
                     <p class="text">Strategically scaling your business to achieve 5–10x returns</p>
                   </div>
                   <div class="funfact-item go-visible">
-                    <span class="number">200+</span>
+                    <span class="number">500+</span>
                     <p class="text">Crafted responsive, user-centered
                       website & app.</p>
                   </div>
                   <div class="funfact-item go-visible">
-                    <span class="number">4+</span>
+                    <span class="number">7+</span>
                     <p class="text">We have had quite a run in our 4+ years of working.</p>
                   </div>
                   <div class="funfact-item go-visible">
-                    <span class="number">15+</span>
+                    <span class="number">25+</span>
                     <p class="text">Professional skilled designers and developers.</p>
                   </div>
                   <div class="funfact-item go-visible">
@@ -566,14 +570,18 @@
                       <img src="assets/imgs/client/h10.png" alt="image">
                     </span>
                   </p>
+
                    <p data-t-throwable-el="">
+
                     <span class="client-box">
                       <img src="assets/imgs/client/h11.png" alt="image">
                     </span>
                   </p>
-                  
 
-                   <p data-t-throwable-el="">
+
+
+                  <p data-t-throwable-el="">
+
                     <span class="client-box">
                       <img src="assets/imgs/client/h12.png" alt="image">
                     </span>
@@ -583,8 +591,7 @@
                       <img src="assets/imgs/client/h13.png" alt="image">
                     </span>
                   </p>
-               
-                
+
                 </div>
               </div>
               <div class="lines-wrapper">
@@ -623,7 +630,7 @@
         <!-- cta area end  -->
 
         <!-- productivity area start  -->
-        <section class="productivity-area">
+        <!-- <section class="productivity-area">
           <div class="container large">
             <div class="productivity-area-inner section-spacing">
               <div class="section-content">
@@ -640,7 +647,7 @@
               </div>
             </div>
           </div>
-        </section>
+        </section> -->
         <!-- productivity area end  -->
 
         <section class="work-area-5">
@@ -663,12 +670,13 @@
                     </div>
                   </div>
 
-                  
-                 
 
-                      <a class="work-box card-wrap fade-anim" href="#" data-bs-toggle="modal" data-bs-target="#workModal"
+
+
+                  <a class="work-box card-wrap fade-anim" href="#" data-bs-toggle="modal" data-bs-target="#workModal"
                     data-image="assets/imgs/project/c-1.jpg" data-client="Happy Patel"
-                    data-designation="Owner of Happy's Nail & Eyelash Studio Academy" data-iframe="https://www.youtube.com/embed/tsVV-rqqN1s?si=Hl8bDGOqtlwHsonU">
+                    data-designation="Owner of Happy's Nail & Eyelash Studio Academy"
+                    data-iframe="https://www.youtube.com/embed/tsVV-rqqN1s?si=Hl8bDGOqtlwHsonU">
                     <div class="card">
                       <div class="card-bg"></div>
                       <div class="thumb"></div>
@@ -683,7 +691,8 @@
 
                   <a class="work-box card-wrap fade-anim" href="#" data-bs-toggle="modal" data-bs-target="#workModal"
                     data-image="assets/imgs/project/c-2.jpg" data-client="Happy Patel"
-                    data-designation="Owner of Happy's Nail & Eyelash Studio Academy" data-iframe="https://www.youtube.com/embed/tsVV-rqqN1s?si=Hl8bDGOqtlwHsonU">
+                    data-designation="Owner of Happy's Nail & Eyelash Studio Academy"
+                    data-iframe="https://www.youtube.com/embed/tsVV-rqqN1s?si=Hl8bDGOqtlwHsonU">
                     <div class="card">
                       <div class="card-bg">
 
@@ -699,7 +708,8 @@
 
                   <a class="work-box card-wrap fade-anim" href="#" data-bs-toggle="modal" data-bs-target="#workModal"
                     data-image="assets/imgs/project/c-3.jpg" data-client="Happy Patel"
-                    data-designation="Owner of Happy's Nail & Eyelash Studio Academy" data-iframe="https://www.youtube.com/embed/-2RAq5o5pwc?si=OO7jNSFZTkDRpRLl">
+                    data-designation="Owner of Happy's Nail & Eyelash Studio Academy"
+                    data-iframe="https://www.youtube.com/embed/-2RAq5o5pwc?si=OO7jNSFZTkDRpRLl">
                     <div class="card">
                       <div class="card-bg">
 
@@ -743,56 +753,58 @@
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div> -->
         <div class="modal-body">
-         
-           <iframe width="100%" height="315" id="dataIframe" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-          
+          <iframe width="100%" height="315" id="dataIframe" src="" title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
         </div>
       </div>
     </div>
 
 
-  <!-- Vendor JS Files -->
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const workModal = document.getElementById('workModal');
-      workModal.addEventListener('show.bs.modal', function (event) {
-        const trigger = event.relatedTarget; // the clicked link
+    <!-- Vendor JS Files -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const workModal = document.getElementById('workModal');
+        workModal.addEventListener('show.bs.modal', function (event) {
+          const trigger = event.relatedTarget; // the clicked link
 
-        // const image = trigger.getAttribute('data-iframe');
-        const iframe = trigger.getAttribute('data-iframe')
-        const client = trigger.getAttribute('data-client');
-        const designation = trigger.getAttribute('data-designation');
+          // const image = trigger.getAttribute('data-iframe');
+          const iframe = trigger.getAttribute('data-iframe')
+          const client = trigger.getAttribute('data-client');
+          const designation = trigger.getAttribute('data-designation');
 
-        // workModal.querySelector('#workModalImage').src = image;
-        workModal.querySelector('#dataIframe').src = iframe;
+          // workModal.querySelector('#workModalImage').src = image;
+          workModal.querySelector('#dataIframe').src = iframe;
 
-        // workModal.querySelector('#workModalTitle').textContent = client;
-        workModal.querySelector('#workModalDesignation').textContent = designation;
+          // workModal.querySelector('#workModalTitle').textContent = client;
+          workModal.querySelector('#workModalDesignation').textContent = designation;
+        });
       });
-    });
-  </script>
+    </script>
 
-  <script src="assets/vendor/jquery-3.7.1.min.js"></script>
-  <script src="assets/vendor/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.magnific-popup.min.js"></script>
-  <script src="assets/vendor/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/gsap.min.js"></script>
-  <script src="assets/vendor/ScrollTrigger.min.js"></script>
-  <script src="assets/vendor/ScrollSmoother.min.js"></script>
-  <script src="assets/vendor/ScrollToPlugin.min.js"></script>
-  <script src="assets/vendor/SplitText.min.js"></script>
-  <script src="assets/vendor/TextPlugin.js"></script>
-  <script src="assets/vendor/customEase.js"></script>
-  <script src="assets/vendor/Flip.min.js"></script>
-  <script src="assets/vendor/jquery.meanmenu.min.js"></script>
-  <script src="assets/vendor/backToTop.js"></script>
-  <script src="assets/vendor/matter.js"></script>
-  <script src="assets/vendor/throwable.js"></script>
-  <script src="assets/js/magiccursor.js"></script>
+    <script src="assets/vendor/jquery-3.7.1.min.js"></script>
+    <script src="assets/vendor/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/jquery.magnific-popup.min.js"></script>
+    <script src="assets/vendor/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/gsap.min.js"></script>
+    <script src="assets/vendor/ScrollTrigger.min.js"></script>
+    <script src="assets/vendor/ScrollSmoother.min.js"></script>
+    <script src="assets/vendor/ScrollToPlugin.min.js"></script>
+    <script src="assets/vendor/SplitText.min.js"></script>
+    <script src="assets/vendor/TextPlugin.js"></script>
+    <script src="assets/vendor/customEase.js"></script>
+    <script src="assets/vendor/Flip.min.js"></script>
+    <script src="assets/vendor/jquery.meanmenu.min.js"></script>
+    <script src="assets/vendor/backToTop.js"></script>
+    <script src="assets/vendor/matter.js"></script>
+    <script src="assets/vendor/throwable.js"></script>
+    <script src="assets/js/magiccursor.js"></script>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
 
 </body>
 
